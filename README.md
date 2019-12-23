@@ -27,6 +27,10 @@ There are many ways to help this open source project. Write tutorials, improve d
 
 For more information and our guidelines, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+**Here are the most important links:**
+* [Forum](https://tkirch.dev/forum/board/24-common-passwords/)
+* [Lexicon](https://tkirch.dev/lexicon/lexicon/29-common-passwords/)
+
 ## How to use
 
 Call up my list with your application (`https://common-passwords.tkirch.dev/list.txt`) and save it locally. Then you can use and process it according to your wishes.
