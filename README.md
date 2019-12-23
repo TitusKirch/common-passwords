@@ -10,6 +10,7 @@
 
 * [About the project](#about-the-project)
 * [Contributing](#contributing)
+* [How to use](#how-to-use)
 * [Lists](#lists)
 * [Versioning](#versioning)
 * [Authors](#authors)
@@ -23,6 +24,13 @@ This project serves to collect and prepare general passwords, which should not b
 There are many ways to help this open source project. Write tutorials, improve documentation, share bugs with others, make feature requests, or just write code. We look forward to every contribution.
 
 For more information and our guidelines, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## How to use
+
+Call up my list with your application (`https://common-passwords.tkirch.dev/list.txt`) and save it locally. Then you can use and process it according to your wishes.
+
+If you only want a certain list, you can use 
+Call `https://common-passwords.tkirch.dev/src/NAME_OF_THE_LIST.txt` (replace `NAME_OF_THE_LIST` with the name of the list). An example of the `numbers` list would look like this from `https://common-passwords.tkirch.dev/src/numbers.txt`.
 
 ## Lists
 | File | Source | Number of passwords (not unique) |
