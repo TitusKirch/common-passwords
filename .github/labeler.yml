@@ -1,8 +1,5 @@
 merge script:
   - run.py
-  
-merge script:
-  - run.py
 
 password:
   - src/*.txt
