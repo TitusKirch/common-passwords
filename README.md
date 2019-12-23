@@ -11,6 +11,7 @@
 * [About the project](#about-the-project)
 * [Contributing](#contributing)
 * [How to use](#how-to-use)
+* [Applications](#Applications)
 * [Lists](#lists)
 * [Versioning](#versioning)
 * [Authors](#authors)
@@ -32,6 +33,13 @@ Call up my list with your application (`https://common-passwords.tkirch.dev/list
 
 If you only want a certain list, you can use 
 Call `https://common-passwords.tkirch.dev/src/NAME_OF_THE_LIST.txt` (replace `NAME_OF_THE_LIST` with the name of the list). An example of the `numbers` list would look like this from `https://common-passwords.tkirch.dev/src/numbers.txt`.
+
+Or look under [Applications](#Applications) to find a suitable application for you.
+
+## Applications
+
+* [tkCommonPasswords](https://tkirch.dev/filebase/file/15-tkcommonpasswords/) - An integration of common-passwords for the WSC, implemented by [TitusKirch](https://github.com/TitusKirch)
+
 
 ## Lists
 
