@@ -10,6 +10,7 @@
 
 * [About the project](#about-the-project)
 * [Contributing](#contributing)
+* [Lists](#lists)
 * [Versioning](#versioning)
 * [Authors](#authors)
 * [License](#license)
@@ -22,6 +23,13 @@ This project serves to collect and prepare general passwords, which should not b
 There are many ways to help this open source project. Write tutorials, improve documentation, share bugs with others, make feature requests, or just write code. We look forward to every contribution.
 
 For more information and our guidelines, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## Lists
+| File | Source | Number of passwords (not unique) |
+| --- | --- | --- |
+| `/src/SplashData_2011to2018.txt` | https://en.wikipedia.org/w/index.php?title=List_of_the_most_common_passwords&oldid=929617229 | 200
+| `/src/Keeper_2016.txt` | https://en.wikipedia.org/w/index.php?title=List_of_the_most_common_passwords&oldid=929617229 | 25
+| `/src/NCSC_2019.txt` | https://en.wikipedia.org/w/index.php?title=List_of_the_most_common_passwords&oldid=929617229 | 20
 
 ## Versioning
 
