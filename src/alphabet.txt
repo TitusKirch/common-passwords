@@ -1,0 +1,16 @@
+abc
+abcabc
+abcabcabc
+cba
+cbacba
+cbacbacba
+xyz
+xyzxyz
+xyzxyzxyz
+zxy
+zxyzxy
+zxyzxyzxy
+qwert
+qaywsx
+qwerty
+qazwsx
