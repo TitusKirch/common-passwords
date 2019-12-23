@@ -40,6 +40,7 @@ Call `https://common-passwords.tkirch.dev/src/NAME_OF_THE_LIST.txt` (replace `NA
 | `/src/SplashData_2011to2018.txt` | https://en.wikipedia.org/w/index.php?title=List_of_the_most_common_passwords&oldid=929617229 | 2019-12-23 20:02 | 200
 | `/src/Keeper_2016.txt` | https://en.wikipedia.org/w/index.php?title=List_of_the_most_common_passwords&oldid=929617229 | 2019-12-23 20:02 | 25
 | `/src/NCSC_2019.txt` | https://en.wikipedia.org/w/index.php?title=List_of_the_most_common_passwords&oldid=929617229 | 2019-12-23 20:02 | 20
+| `/src/npmjs_20191223_2025.txt` | https://www.npmjs.com/signup/common-passwords | 2019-12-23 20:25 | 6.164
 
 ## Versioning
 
