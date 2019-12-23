@@ -22,6 +22,9 @@ for filePath in glob.glob(srcPath + listFilePattern):
     #close file
     file.close()
 
+# remove empty elements
+passwordList = list(filter(None, passwordList))
+
 # save passwordList to passwordListFile by passwordListFilePath
 with open(passwordListFilePath, mode='wt') as passwordListFile:
     passwordListFile.write('\n'.join(passwordList))
