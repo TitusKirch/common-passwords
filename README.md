@@ -11,6 +11,7 @@
 * [About the project](#about-the-project)
 * [Contributing](#contributing)
 * [How to use](#how-to-use)
+    * [Special lists](#special-lists)
 * [Applications](#Applications)
 * [Lists](#lists)
 * [Versioning](#versioning)
@@ -39,6 +40,14 @@ If you only want a certain list, you can use
 Call `https://common-passwords.tkirch.dev/src/NAME_OF_THE_LIST.txt` (replace `NAME_OF_THE_LIST` with the name of the list). An example of the `numbers` list would look like this from `https://common-passwords.tkirch.dev/src/numbers.txt`.
 
 Or look under [Applications](#Applications) to find a suitable application for you.
+
+### Special lists
+| File | Link | Pattern |
+| --- | --- | --- |
+| `list.txt` | `https://common-passwords.tkirch.dev/list.txt` | All passwords |
+| `list_azAZ09.txt` | `https://common-passwords.tkirch.dev/list_azAZ09.txt` | Upper and lower case letters and numbers |
+| `list_azAZ09_8.txt` | `https://common-passwords.tkirch.dev/list_azAZ09_8.txt` | Upper and lower case letters, numbers and 8 characters long |
+| `list_azAZ09Special_8.txt` | `https://common-passwords.tkirch.dev/list_azAZ09Special_8.txt` | Upper and lower case letters, numbers, special characters and 8 characters long |
 
 ## Applications
 
